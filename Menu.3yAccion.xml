@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<items>
+ 
+<playlist_name><![CDATA[ :::::: 3yAccion 1.0 :::::: ]]></playlist_name>
+
+
+
+
+<channel>      
+<title><![CDATA[ :::::: Cine 3yAccion :::::: ]]></title> 
+<logo></logo> 
+<description><![CDATA[<img src="https://i.postimg.cc/MHmf40tY/Cine.jpg"/>Peliculas de todos los años y generos.]]></description> 
+<playlist_url><![CDATA[https://github.com/pepeman/3yAccion/blob/master/Indice.3yAccion.Cine.xml]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[ :::::: Favoritos :::::: ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://i.postimg.cc/qRgRk7WV/favoritos.jpg"/>Crea tu propia lista con el contenido que mas te guste o al que quieras acceder de una forma mas rapida.]]></description> 
+<playlist_url><![CDATA[VOD-Favoritos.xml]]></playlist_url> 
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+<channel>      
+<title><![CDATA[ :::::: Ayuda :::::: ]]></title> 
+<logo_30x30></logo_30x30> 
+<description><![CDATA[<img src="https://i.postimg.cc/44mwYkcX/Ayuda.jpg"/>Funciones de los botones del mando a distancia]]></description> 
+<playlist_url><![CDATA[VOD-Ayuda.xml]]></playlist_url>  
+<buffer_kb>20480</buffer_kb>
+</channel>
+
+
+<prev_page_url text="Volver"><![CDATA[https://www.dropbox.com/s/j0qmul834ypsns0/Menu_QuieroTV.xml?dl=1]]></prev_page_url>
+
+</items>
