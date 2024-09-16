@@ -1,4 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<items>
+<playlist_name><![CDATA[BUSQUEDA PELICULAS]]></playlist_name>
 
 <channel>
 <title><![CDATA[Hypnotic (2023) ]]></title> 
@@ -431,7 +433,6 @@
 <stream_url><![CDATA[https://pixeldrain.com/api/file/kp9UN9ib]]></stream_url>
 <buffer_kb>10240</buffer_kb>
 </channel>
-<items>
-<playlist_name><![CDATA[BUSQUEDA PELICULAS]]></playlist_name>
+
 
 
